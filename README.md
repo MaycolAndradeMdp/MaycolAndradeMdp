@@ -9,13 +9,9 @@
 
 - PROYECTOS:
         - Participación de pasantia en diferentes tareas en la Municipalidad de General Pueyrredón (120hs)
-  
         - Sistema de gestion administrativa escolar en C# con conexión a SQLServer
-  
         - Sistema de turnos entre doctor y paciente en C
-  
         - Página de reseña de peliculas con 2 perfiles (Admin, usuario), desarrollado en React, node y api rest con conexión a SQLServer
-  
         - Sistema de gestión administrativa escolar para permitir la inscripción a finales para los alumnos. Desarrollado en PHP con conexión a MySQL
         
 
