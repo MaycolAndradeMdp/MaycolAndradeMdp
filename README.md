@@ -1,17 +1,20 @@
 <h1 align="center">Hola 👋, Soy Maycol Andrade</h1>
-<h3 align="center">Estudiante de Analista en Sistemas🌟.</h3>
+<h3 align="center"> Analista en Sistemas🌟.</h3>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Actualmente estoy aprendiendo lenguajes de programación y tecnologias.
-
 - 📫 Comunicate por: **maycolandrademdp@gmail.com**
 
 - PROYECTOS:
+        - Participación de pasantia en diferentes tareas en la Municipalidad de General Pueyrredón (120hs)
         - Sistema de gestion administrativa escolar en C# con conexión a SQLServer
         - Sistema de turnos entre doctor y paciente en C
+        - Página de reseña de peliculas con 2 perfiles (Admin, usuario), desarrollado en React, node y api rest con conexión a SQLServer
+        - Sistema de gestión administrativa escolar para permitir la inscripción a finales para los alumnos. Desarrollado en PHP con conexión a MySQL
+        
+
 
 <br>
 
