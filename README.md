@@ -49,7 +49,7 @@
   <!-- C++ -->
 </p>
 
-<h3 align="left">Experiencia/h3>
+<h3 align="left">Experiencia </h3>
 <p align="left">
   Participé en una pasantia en la Municipalidad de General Pueyrredón (Mar del Plata) de 120 horas. 
 </p>
